@@ -2,10 +2,10 @@
   "project": "Example",
   "plugins": [
     {
-      "id": "blocks",
+      "id": "Library",
       "title": "Library",
       "environments": ["edit"],
-      "url": "https://main--aemtest--ajuhz.aem.live/tools/sidekick/library.html",
+      "url": "/tools/sidekick/library.html",
       "includePaths": ["**.docx**"]
     }
   ]
